@@ -44,7 +44,7 @@ Setting environment variable AWS_SECRET_ACCESS_KEY
 
 * You need a [1password](https://1password.com/) account.
 * You need the [1password CLI](https://support.1password.com/command-line-getting-started/) installed and configured.
-* A bash shell that supports Associate Arrays. Bash v4 and newer iirc.
+* A bash shell that supports associative arrays. Bash v4 and newer iirc.
 
 ## setup
 
